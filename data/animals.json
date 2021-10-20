@@ -127,6 +127,16 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Marty",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
